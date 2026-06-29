@@ -1,1 +1,32 @@
+# Google Cybersecurity Professional Certificate
+
+This folder contains selected hands-on activities completed as part of the Google Cybersecurity Professional Certificate. These activities demonstrate practical cybersecurity skills in incident analysis, risk assessment, Linux permissions, SQL filtering, vulnerability assessment, and Python automation.
+
+## Activities Included
+
+* Cybersecurity Incident Journal using the 5 W's framework
+* Incident Report Analysis using the NIST Cybersecurity Framework
+* Linux File Permissions and Access Control
+* Applying Filters to SQL Queries
+* Vulnerability Assessment Report
+* Algorithm for File Updates in Python
+
+## Skills Demonstrated
+
+* Cybersecurity Fundamentals
+* Incident Analysis
+* NIST Cybersecurity Framework
+* Risk Assessment
+* Vulnerability Assessment
+* Linux File Permissions
+* SQL Querying
+* Python Automation
+* Access Control
+* Security Documentation
+* Technical Communication
+* Problem Solving
+
+## Purpose
+
+This section highlights my practical understanding of cybersecurity concepts and demonstrates my ability to document security investigations, analyze risks, apply technical controls, and use foundational tools relevant to entry-level cybersecurity roles.
 
